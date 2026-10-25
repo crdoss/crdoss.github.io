@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Moved</title>
+<meta http-equiv="refresh" content="0; url=papers.html">
+<link rel="canonical" href="https://charlesrdoss.com/papers.html">
+<meta name="robots" content="noindex">
+<script>location.replace("papers.html" + location.hash);</script>
+</head>
+<body>
+<p>This page has moved to <a href="papers.html">https://charlesrdoss.com/papers.html</a>.</p>
+</body>
+</html>
